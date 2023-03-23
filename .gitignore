@@ -1,0 +1,7 @@
+/.idea/
+/LeetCode.iml
+
+/out/
+/target/
+
+.DS_Store
