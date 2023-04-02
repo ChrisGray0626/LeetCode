@@ -42,7 +42,7 @@ class Solution {
         StringBuilder res = new StringBuilder();
 
         for (int i = 0; i < 10; i++) {
-            res.append(String.valueOf(i).repeat(Math.max(0, digits[i])));
+//            res.append(String.valueOf(i).repeat(Math.max(0, digits[i])));
         }
         return res.toString();
     }

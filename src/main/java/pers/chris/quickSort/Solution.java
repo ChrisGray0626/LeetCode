@@ -1,4 +1,4 @@
-package pers.chris.quicksort;
+package pers.chris.quickSort;
 
 /**
  * @Description
