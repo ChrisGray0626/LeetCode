@@ -1,8 +1,7 @@
-package pers.chris.StockPrice;
+package pers.chris.PriorityQueue.StockPrice;
 
 import pers.chris.BFS.kSimilarity.Pair;
 
-import java.util.Comparator;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.PriorityQueue;
